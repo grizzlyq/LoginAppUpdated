@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "d221883f-d036-48dc-9e9f-6ebb60555a04-profile_banner-480.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "d221883f-d036-48dc-9e9f-6ebb60555a04-profile_banner-480@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "d221883f-d036-48dc-9e9f-6ebb60555a04-profile_banner-480@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
